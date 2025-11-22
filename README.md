@@ -1,6 +1,6 @@
 # Prototipo-didactico-de-un-simulador-binario-Software-y-Hardware-
 
-Proyecto de un sumador binario de 1 bit utilizando compuertas XOR, AND y OR.
+Proyecto de un sumador binario de 2 bits utilizando compuertas XOR, AND y OR.
 
 ## Contenido del repositorio
 - Tabla de verdad
